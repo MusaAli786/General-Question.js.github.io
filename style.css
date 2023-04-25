@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainContainer{
+    text-align: center;
+}
+h1{
+    background: #2F2F2F;
+    color: #FB6F2E;;
+    width: 350PX;
+    height: 50px;
+    margin: 20px 0px 0px 570px;
+    border-radius: 10px;
+    text-align: center;
+}
+.queston1{
+    margin: 60px 0px 0px 570px;
+    background-color: #2F2F2F;
+    width: 350px;
+    height: 80px;
+    padding: 25px 0px 0px 0px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #FB6F2E;
+    
+}
+.firstButton{
+    position: absolute;
+    margin: -40px 0px 0px 140px;
+    width: 20px;
+    height: 25px;
+   font-size: 25px;
+   background-color: #1E1E1E;
+   color: #fff;
+}
+.firstPara{
+    background-color: #2F2F2F;
+    margin: -10px 0px 0px 570px;
+    width: 350px;
+    height: 120px;
+    padding: 10px 0px 0px 0px;
+    font-size: 16px;
+    border-top: 1px solid #fff;
+    color: #FB6F2E; 
+ 
+}
+.queston2{
+    margin: 60px 0px 0px 570px;
+    background-color: #2F2F2F;
+    width: 350px;
+    height: 80px;
+    padding: 25px 0px 0px 0px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #FB6F2E;
+}
+.secondButton{
+    position: absolute;
+    margin: -40px 0px 0px 140px;
+    width: 20px;
+    height: 25px;
+   font-size: 25px;
+   background-color: #1E1E1E;
+   color: #fff;
+}
+.secondPara{
+    background-color: #2F2F2F;
+    width: 350px;
+    height: 120px;
+    margin: -10px 0px 0px 570px;
+    padding: 10px 0px 0px 0px;
+    font-size: 16px;
+    border-top: 1px solid #fff;
+    color: #FB6F2E;
+}
+.queston3{
+    margin: 60px 0px 0px 570px;
+    background-color: #2F2F2F;
+    width: 350px;
+    height: 80px;
+    padding: 25px 0px 0px 0px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #FB6F2E;
+}
+.thirdButton{
+    position: absolute;
+    margin: -40px 0px 0px 140px;
+    width: 20px;
+    height: 25px;
+   font-size: 25px;
+   background-color: #1E1E1E;
+   color: #fff;
+}
+.thirdPara{
+    background-color: #2F2F2F;
+    width: 350px;
+    height: 120px;
+    margin: -10px 0px 0px 570px;
+    padding: 10px 0px 0px 0px;
+    font-size: 16px;
+    border-top: 1px solid #fff;
+    color: #FB6F2E;
+}
+
+.hidden{
+    max-height: 0;
+    overflow: hidden;
+}
+
